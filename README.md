@@ -4,7 +4,7 @@ Base repository for Phaser games.
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yblajban/phaser-base.git
+    git clone https://github.com/blajban/phaser-base.git
     cd phaser-base
     npm install
 
