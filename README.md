@@ -5,7 +5,7 @@ Template repository for Phaser games.
 1. Use template
 - Click 'Use this template'.
 - Enter name of new repo.
-- Click Create repository from template.
+- Click 'Create repository from template'.
   
 1. Clone the repository:
     ```bash
